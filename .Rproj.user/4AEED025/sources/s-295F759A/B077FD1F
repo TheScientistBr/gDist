@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552330163671.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3031925226",
+    "id" : "B077FD1F",
+    "lastKnownWriteTime" : 1552331769,
+    "last_content_update" : 1552331769744,
+    "path" : "E:/gDist/gDist.R",
+    "project_path" : "gDist.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
